@@ -1,1 +1,1 @@
-# RobotNavigation
+# Propositional Logic Inference Engine
